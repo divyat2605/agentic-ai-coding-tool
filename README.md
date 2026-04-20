@@ -109,7 +109,7 @@ No boilerplate. No back-and-forth. Just describe your idea and let Weave build i
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weave.git
+git clone https://github.com/divyat2605/agentic-ai-coding-tool.git
 cd weave
 uv sync
 ```
